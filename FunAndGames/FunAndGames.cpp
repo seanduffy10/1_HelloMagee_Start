@@ -3,11 +3,10 @@
  *
  * v0.1
  * Author: Dr Darryl Charles
- * Date: Summer 2021
+ * Date: Autumn 2021
  *
  * Copyright notice: Public Domain
  */ 
-
 #include <iostream>
 #include <chrono>
 #include <thread>
