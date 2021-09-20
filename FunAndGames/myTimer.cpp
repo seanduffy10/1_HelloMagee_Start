@@ -28,6 +28,7 @@ double myTimer::elapsedMilliseconds()
         endTime = m_EndTime;
     }
 
+    // casts (changes) clock time into milliseconds
     return std::chrono::duration_cast<std::chrono::milliseconds>(endTime - m_StartTime).count();
 }
 
