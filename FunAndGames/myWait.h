@@ -1,4 +1,4 @@
-namespace dcw 
+namespace dcWait 
 {
-		void wait(int delay);
+	void wait(int delay);
 }

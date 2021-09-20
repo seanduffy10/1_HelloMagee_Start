@@ -5,7 +5,7 @@
 
 // Original Source https://gist.github.com/mcleary/b0bf4fa88830ff7c882d 
 
-namespace dc {
+namespace dcTimer {
     class myTimer
     {
     public:

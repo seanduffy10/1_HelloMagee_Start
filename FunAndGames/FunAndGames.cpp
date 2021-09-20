@@ -17,10 +17,10 @@ int main()
 {
     int delay = 1000;
 
-    dc::myTimer timer;
+    dcTimer::myTimer timer;
     timer.start();
 
-    dcw::wait(delay);
+    dcWait::wait(delay);
     std::cout << "Time elapsed in Seconds: " << timer.elapsedSeconds() << std::endl;
     std::cout << "Time elapsed in Milliseconds: " << timer.elapsedMilliseconds() << std::endl;
 

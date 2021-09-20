@@ -4,7 +4,7 @@
 
 #include"myWait.h"
 
-void dcw::wait(int TIME_TO_SLEEP)
+void dcWait::wait(int TIME_TO_SLEEP)
 {
     std::cout << "Delay started ...." << std::endl;
     std::this_thread::sleep_for(std::chrono::milliseconds(TIME_TO_SLEEP)); 

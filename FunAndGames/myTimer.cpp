@@ -1,5 +1,5 @@
 #include "myTimer.h"
-using namespace dc;
+using namespace dcTimer;
 
 // Original Source https://gist.github.com/mcleary/b0bf4fa88830ff7c882d 
 
