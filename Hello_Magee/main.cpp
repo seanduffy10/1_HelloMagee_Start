@@ -13,5 +13,6 @@
 int main()
 {
     std::cout << "Hello Magee!!\n";
+    std::cout << "Just practicing on how to use github fetch/commit features";
 }
 
